@@ -1,120 +1,146 @@
-# 💫 Hi 👋, I'm Ankit Agarwal
+# Hi, I'm Ankit Agarwal 👋
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-2210)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankit.agarwal.code@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/ankit-2210/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/ankitagarwalcode?tab=activity)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white)](https://codeforces.com/profile/ankit-2210)
+### Java Backend Developer | Spring Boot | Microservices | LabVantage LIMS Developer
 
-## 💻 Tech Stack
+💼 Software Engineer with experience in Java, Spring Boot, SQL, JavaScript, and Enterprise LIMS solutions.
 
-<table>
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=c" width="48"/><br>
-<b>C</b>
-</td>
+🚀 Passionate about building scalable backend systems, REST APIs, and cloud-ready applications.
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=java" width="48"/><br>
-<b>Java</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=spring" width="48"/><br>
-<b>Spring Boot</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=spring" width="48"/><br>
-<b>Spring Security</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=spring" width="48"/><br>
-<b>Spring MVC</b>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=react" width="48"/><br>
-<b>React JS</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br>
-<b>Node JS</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=js" width="48"/><br>
-<b>JavaScript</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>
-<b>Tailwind CSS</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>
-<b>MySQL</b>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br>
-<b>MongoDB</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=docker" width="48"/><br>
-<b>Docker</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=rabbitmq" width="48"/><br>
-<b>RabbitMQ</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=postman" width="48"/><br>
-<b>Postman</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=jest" width="48"/><br>
-<b>Unit Testing</b>
-</td>
-</tr>
-</table>
-
-### Additional Skills
-- Microservices
-- REST APIs
-- AJAX
+💡 Interested in:
+- Backend Development
+- Microservices Architecture
 - System Design
-- OOPs
-- API Testing (Postman)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ankit-2210&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ankit-2210&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ankit-2210&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ankit-2210&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ankit-2210&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- Cloud Technologies
+- Competitive Programming
 
 ---
-[![](https://komarev.com/ghpvc/?username=ankit-2210&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/ankit-2210">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ankit.agarwal.code@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/ankit-2210/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://codeforces.com/profile/ankit-2210">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/ankitagarwalcode">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 🚀 Tech Stack
+
+### Languages
+![Java](https://skillicons.dev/icons?i=java)
+![C](https://skillicons.dev/icons?i=c)
+![JavaScript](https://skillicons.dev/icons?i=js)
+
+### Backend
+![Spring](https://skillicons.dev/icons?i=spring)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+
+### Frontend
+![React](https://skillicons.dev/icons?i=react)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+
+### Database
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+
+### Tools & DevOps
+![Docker](https://skillicons.dev/icons?i=docker)
+![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)
+![Postman](https://skillicons.dev/icons?i=postman)
+![Git](https://skillicons.dev/icons?i=git)
+
+---
+
+## 💼 Professional Experience
+
+### Associate Software Engineer — Cognizant
+
+✔ Developed and customized LabVantage LIMS solutions using Java, SQL, and JavaScript.
+
+✔ Automated laboratory workflows, reducing manual effort by 80%.
+
+✔ Designed scalable backend features and optimized application performance.
+
+✔ Investigated and resolved production issues, improving system reliability.
+
+✔ Collaborated with business stakeholders and cross-functional teams to deliver enterprise solutions.
+
+---
+
+## 🏆 Achievements
+
+- Solved 1000+ DSA problems across coding platforms
+- Active Competitive Programmer
+- Strong understanding of Data Structures & Algorithms
+- Experience working on Enterprise LIMS Applications
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Event Driven E-Commerce System
+Spring Boot • RabbitMQ • Microservices
+
+- Asynchronous Order Processing
+- Inventory Management
+- Email Notifications
+- Scalable Microservice Architecture
+
+### 🔹 Secure Authentication System
+Spring Security • JWT • MySQL
+
+- Role Based Access Control
+- JWT Authentication
+- Refresh Token Mechanism
+
+### 🔹 AWS S3 File Storage Service
+Spring Boot • AWS S3
+
+- Secure File Upload/Download
+- Presigned URLs
+- Cloud Storage Integration
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ankit-2210&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-2210&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=ankit-2210&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📈 Profile Views
+
+![](https://komarev.com/ghpvc/?username=ankit-2210&style=for-the-badge)
+
+---
+
+### “First, solve the problem. Then, write the code.” – John Johnson
