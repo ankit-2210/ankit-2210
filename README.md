@@ -1,4 +1,17 @@
-# 💫 Hi 👋, I'm Ankit Agarwal
+# Hi, I'm Ankit Agarwal 👋
+
+### Java Backend Developer | Spring Boot | Microservices | LabVantage LIMS Developer
+
+💼 Software Engineer with experience in Java, Spring Boot, SQL, JavaScript, and Enterprise LIMS solutions.
+
+🚀 Passionate about building scalable backend systems, REST APIs, and cloud-ready applications.
+
+💡 Interested in:
+- Backend Development
+- Microservices Architecture
+- System Design
+- Cloud Technologies
+- Competitive Programming
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-2210)
