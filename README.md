@@ -25,8 +25,8 @@
 <table>
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=c" width="48"/><br>
-<b>C</b>
+<img src="https://skillicons.dev/icons?i=cpp" width="48"/><br>
+<b>C++</b>
 </td>
 
 <td align="center">
