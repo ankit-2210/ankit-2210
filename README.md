@@ -103,6 +103,14 @@
 <b>Unit Testing</b>
 </td>
 </tr>
+
+<tr>
+  <td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="48" alt="Playwright"/><br>
+  <b>Playwright</b>
+  </td>
+</tr>
+
 </table>
 
 ### Additional Skills
