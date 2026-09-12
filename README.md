@@ -45,8 +45,8 @@
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=spring" width="48"/><br>
-<b>Spring MVC</b>
+<img src="https://skillicons.dev/icons?i=js" width="48"/><br>
+<b>JavaScript</b>
 </td>
 </tr>
 
@@ -59,11 +59,6 @@
 <td align="center">
 <img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br>
 <b>Node JS</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=js" width="48"/><br>
-<b>JavaScript</b>
 </td>
 
 <td align="center">
