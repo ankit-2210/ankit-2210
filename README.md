@@ -70,14 +70,14 @@
 <img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>
 <b>MySQL</b>
 </td>
-</tr>
 
-<tr>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br>
 <b>MongoDB</b>
 </td>
+</tr>
 
+<tr>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=docker" width="48"/><br>
 <b>Docker</b>
@@ -97,14 +97,14 @@
 <img src="https://skillicons.dev/icons?i=jest" width="48"/><br>
 <b>Unit Testing</b>
 </td>
-</tr>
 
-<tr>
-  <td align="center">
+ <td align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="48" alt="Playwright"/><br>
     <b>Playwright</b>
   </td>
+</tr>
 
+<tr>
   <td align="center">
     <img src="https://skillicons.dev/icons?i=bitbucket" width="48" alt="Bitbucket"/><br>
     <b>Bitbucket</b>
