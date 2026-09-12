@@ -106,8 +106,18 @@
 
 <tr>
   <td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="48" alt="Playwright"/><br>
-  <b>Playwright</b>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="48" alt="Playwright"/><br>
+    <b>Playwright</b>
+  </td>
+
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=bitbucket" width="48" alt="Bitbucket"/><br>
+    <b>Bitbucket</b>
+  </td>
+
+  <td align="center">
+    <img src="https://www.cursor.com/favicon.ico" width="48" alt="Cursor AI"/><br>
+    <b>Cursor AI</b>
   </td>
 </tr>
 
