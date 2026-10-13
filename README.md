@@ -37,21 +37,57 @@ I'm a **Software Engineer focused on Java backend development**, with experience
 
 <div align="center">
 
-### Backend & Programming Languages
+### 💻 Backend & Programming Languages
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,cpp" alt="Java, Spring Boot, Hibernate, Node.js, C++"/>
+<table>
+<tr>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=java" width="45" alt="Java"/><br/>Java</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=spring" width="45" alt="Spring Boot"/><br/>Spring Boot</td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="45" alt="Hibernate"/><br/>Hibernate</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=nodejs" width="45" alt="Node.js"/><br/>Node.js</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=cpp" width="45" alt="C++"/><br/>C++</td>
+</tr>
+</table>
 
-### Frontend Development
+### 🎨 Frontend Development
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind" alt="JavaScript, TypeScript, React, HTML, CSS, Tailwind CSS"/>
+<table>
+<tr>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=js" width="45" alt="JavaScript"/><br/>JavaScript</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=ts" width="45" alt="TypeScript"/><br/>TypeScript</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=react" width="45" alt="React"/><br/>React</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML5"/><br/>HTML5</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS3"/><br/>CSS3</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=tailwind" width="45" alt="Tailwind CSS"/><br/>Tailwind CSS</td>
+</tr>
+</table>
 
-### Databases & Messaging
+### 🗄️ Databases & Messaging
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,rabbitmq" alt="MySQL, MongoDB, PostgreSQL, RabbitMQ"/>
+<table>
+<tr>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=mysql" width="45" alt="MySQL"/><br/>MySQL</td>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=mongodb" width="45" alt="MongoDB"/><br/>MongoDB</td>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=postgres" width="45" alt="PostgreSQL"/><br/>PostgreSQL</td>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=rabbitmq" width="45" alt="RabbitMQ"/><br/>RabbitMQ</td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="45" alt="Apache Kafka"/><br/>Apache Kafka</td>
+</tr>
+</table>
 
-### Tools & Development
+### ⚙️ Tools & Development
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,bitbucket,jenkins,postman,vscode,idea" alt="Docker, Git, GitHub, Bitbucket, Jenkins, Postman, VS Code, IntelliJ IDEA"/>
+<table>
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=docker" width="45" alt="Docker"/><br/>Docker</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=git" width="45" alt="Git"/><br/>Git</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/><br/>GitHub</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=bitbucket" width="45" alt="Bitbucket"/><br/>Bitbucket</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=jenkins" width="45" alt="Jenkins"/><br/>Jenkins</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=postman" width="45" alt="Postman"/><br/>Postman</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=vscode" width="45" alt="VS Code"/><br/>VS Code</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=idea" width="45" alt="IntelliJ IDEA"/><br/>IntelliJ IDEA</td>
+</tr>
+</table>
 
 </div>
 
