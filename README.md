@@ -1,20 +1,29 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=240&text=ANKIT%20AGARWAL&fontSize=48&color=0:0F172A,50:1D4ED8,100:06B6D4&fontColor=FFFFFF&stroke=38BDF8&strokeWidth=1" width="100%" alt="Ankit Agarwal — Developer Profile"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,45:1D4ED8,100:06B6D4&height=230&section=header&text=ANKIT%20AGARWAL&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=JAVA%20BACKEND%20DEVELOPER&descSize=18&descAlignY=58&descColor=BAE6FD" width="100%" alt="Ankit Agarwal | Java Backend Developer"/>
 
-# Java Backend Developer
+### Building Scalable Backend Systems & AI-Powered Applications
 
-### Spring Boot · Microservices · REST APIs · AI Integration
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Scalable+Backend+Applications;Designing+RESTful+APIs+%26+Microservices;Exploring+AI-Powered+Applications;Solving+Problems+Through+Code" alt="Developer tagline animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+%7C+Microservices;REST+APIs+%7C+SQL+%7C+System+Design;Exploring+AI%2C+LLMs+%26+RAG;Turning+Ideas+Into+Working+Software" alt="Animated developer introduction"/>
 
 <p>
-<a href="https://linkedin.com/in/ankit-2210"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:ankit.agarwal.code@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/ankit-2210"><img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://linkedin.com/in/ankit-2210"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:ankit.agarwal.code@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/ankit-2210?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Projects"/></a>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Primary%20Language-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Backend-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/Architecture-Microservices-2563EB?style=flat-square" alt="Microservices"/>
+<img src="https://img.shields.io/badge/Exploring-AI%20%26%20LLMs-8B5CF6?style=flat-square" alt="AI and LLMs"/>
 </p>
 
 </div>
+
+---
+
+
 
 ---
 
