@@ -5,7 +5,7 @@
 ### Building Scalable Backend Systems & AI-Powered Applications
 
 <p align="center">
-  <strong>Java • Spring Boot • Microservices • REST APIs • Node JS • AI Integration</strong>
+  <strong>Java • Spring Boot • Microservices • REST APIs • Node JS • LabVantage LIMS Developer • AI Integration</strong>
 </p>
 
 <p align="center">
