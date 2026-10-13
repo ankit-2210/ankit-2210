@@ -1,142 +1,168 @@
-# Hi, I'm Ankit Agarwal 👋
+ <div align="center">
 
-### Java Backend Developer | Spring Boot | Microservices | Node JS | LabVantage LIMS Developer
+<img src="https://capsule-render.vercel.app/api?type=venom&height=240&text=ANKIT%20AGARWAL&fontSize=48&color=0:0F172A,50:1D4ED8,100:06B6D4&fontColor=FFFFFF&stroke=38BDF8&strokeWidth=1" width="100%" alt="Ankit Agarwal — Developer Profile"/>
 
-💼 Software Engineer with experience in Java, Spring Boot, SQL, JavaScript, and Enterprise LIMS solutions.
+# Java Backend Developer
 
-🚀 Passionate about building scalable backend systems, REST APIs, and cloud-ready applications.
+### Spring Boot · Microservices · REST APIs · AI Integration
 
-💡 Interested in:
-- Backend Development
-- Microservices Architecture
-- System Design
-- Cloud Technologies
-- Competitive Programming
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Scalable+Backend+Applications;Designing+RESTful+APIs+%26+Microservices;Exploring+AI-Powered+Applications;Solving+Problems+Through+Code" alt="Developer tagline animation"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-2210)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankit.agarwal.code@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/ankit-2210/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/ankitagarwalcode?tab=activity)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white)](https://codeforces.com/profile/ankit-2210)
+<p>
+<a href="https://linkedin.com/in/ankit-2210"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:ankit.agarwal.code@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/ankit-2210"><img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
-## 💻 Tech Stack
+</div>
 
-<table>
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=cpp" width="48"/><br>
-<b>C++</b>
-</td>
+---
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=java" width="48"/><br>
-<b>Java</b>
-</td>
+## 👨‍💻 About Me
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=spring" width="48"/><br>
-<b>Spring Boot</b>
-</td>
+I'm a **Software Engineer focused on Java backend development**, with experience in enterprise LIMS solutions, workflow automation, and full-stack application development.
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=spring" width="48"/><br>
-<b>Spring Security</b>
-</td>
+- ☕ Building backend applications using Java and Spring Boot.
+- 🏗️ Exploring microservices architecture and distributed systems.
+- 🔌 Developing REST APIs, authentication flows, and database-driven applications.
+- 🤖 Exploring AI integration, document intelligence, and LLM-powered applications.
+- 🧪 Experienced in enterprise LIMS workflows and test automation.
+- 🧠 Practicing data structures, algorithms, and competitive programming.
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=js" width="48"/><br>
-<b>JavaScript</b>
-</td>
-</tr>
+**Current focus:** Backend Engineering · Microservices · System Design · AI Integration
 
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=react" width="48"/><br>
-<b>React JS</b>
-</td>
+---
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br>
-<b>Node JS</b>
-</td>
+## 🛠️ Tech Stack
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>
-<b>Tailwind CSS</b>
-</td>
+<div align="center">
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>
-<b>MySQL</b>
-</td>
+### Backend & Programming Languages
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br>
-<b>MongoDB</b>
-</td>
-</tr>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,cpp" alt="Java, Spring Boot, Hibernate, Node.js, C++"/>
 
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=docker" width="48"/><br>
-<b>Docker</b>
-</td>
+### Frontend Development
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=rabbitmq" width="48"/><br>
-<b>RabbitMQ</b>
-</td>
+<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind" alt="JavaScript, TypeScript, React, HTML, CSS, Tailwind CSS"/>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=postman" width="48"/><br>
-<b>Postman</b>
-</td>
+### Databases & Messaging
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=jest" width="48"/><br>
-<b>Unit Testing</b>
-</td>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,rabbitmq" alt="MySQL, MongoDB, PostgreSQL, RabbitMQ"/>
 
- <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="48" alt="Playwright"/><br>
-    <b>Playwright</b>
-  </td>
-</tr>
+### Tools & Development
 
-<tr>
-  <td align="center">
-    <img src="https://skillicons.dev/icons?i=bitbucket" width="48" alt="Bitbucket"/><br>
-    <b>Bitbucket</b>
-  </td>
+<img src="https://skillicons.dev/icons?i=docker,git,github,bitbucket,jenkins,postman,vscode,idea" alt="Docker, Git, GitHub, Bitbucket, Jenkins, Postman, VS Code, IntelliJ IDEA"/>
 
-  <td align="center">
-    <img src="https://www.cursor.com/favicon.ico" width="48" alt="Cursor AI"/><br>
-    <b>Cursor AI</b>
-  </td>
-</tr>
+</div>
 
-</table>
+**Additional technologies**
 
-### Additional Skills
-- Microservices
-- REST APIs
-- AJAX
-- System Design
-- OOPs
-- API Testing (Postman)
+`Spring Security` · `Spring AI` · `REST APIs` · `Apache Kafka` · `Playwright` · `JasperReports` · `SQL` · `API Testing` · `OOP` · `System Design`
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ankit-2210&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ankit-2210&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ankit-2210&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🚀 Featured Projects
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✈️ 1. Airline Microservices System
 
-## 📈 Profile Views
-![](https://komarev.com/ghpvc/?username=ankit-2210&style=for-the-badge)
+**Java · Spring Boot · Microservices · Kafka · SQL**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+A modular airline management system focused on service-oriented architecture and backend engineering.
+
+- Independent services for domain-specific functionality.
+- REST-based communication and inter-service integration.
+- Exploration of messaging, service boundaries, and scalable architecture.
+
+[![View Repository](https://img.shields.io/badge/VIEW%20PROJECT-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ankit-2210)
+
+### 🤖 2. AI Job Portal
+
+**Java · Spring Boot · AI Integration · REST APIs**
+
+An AI-oriented job portal designed to combine recruitment workflows with intelligent application features.
+
+- Backend services for job portal functionality.
+- REST APIs and application-layer integration.
+- AI-powered functionality as part of the application's development direction.
+
+[![View Repository](https://img.shields.io/badge/VIEW%20PROJECT-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ankit-2210)
+
+### 🧠 3. DocMind — AI Document Assistant
+
+**Spring Boot · Spring AI · LLM Integration · Vector Search**
+
+An AI document assistant exploring conversational access to information contained in documents.
+
+- Document-oriented question answering.
+- Semantic retrieval and vector database integration.
+- Exploration of retrieval-augmented generation (RAG) and LLM-powered responses.
+
+[![View Repository](https://img.shields.io/badge/VIEW%20PROJECT-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ankit-2210)
+
+### 🍅 4. Tomato — Food Delivery Platform
+
+**React · TypeScript · REST APIs · Authentication**
+
+A multi-role food delivery platform designed around customer, seller, and rider workflows.
+
+- Role-based application flows for customers, sellers, and riders.
+- Seller-side restaurant and menu management.
+- Authentication, location-aware functionality, and account management.
+
+[![View Repository](https://img.shields.io/badge/VIEW%20PROJECT-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ankit-2210/Tomato)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ankit-2210&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-2210&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+
+<br/>
+
+<img width="95%" src="https://streak-stats.demolab.com?user=ankit-2210&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## 🧩 Competitive Programming
+
+<div align="center">
+
+<a href="https://leetcode.com/u/ankit-2210/"><img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+
+<a href="https://www.geeksforgeeks.org/profile/ankitagarwalcode?tab=activity"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
+
+<a href="https://codeforces.com/profile/ankit-2210"><img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+
+</div>
+
+I enjoy working on data structures, algorithms, optimization, and problem-solving challenges.
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in Java backend engineering, Spring Boot development, microservices architecture, AI-integrated applications, and collaborative software projects.
+
+<div align="center">
+
+<a href="https://linkedin.com/in/ankit-2210"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+
+<a href="mailto:ankit.agarwal.code@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact via email"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ankit-2210&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/><br/>
+
+*Build with purpose. Solve with logic. Improve with every commit.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=110&section=footer" width="100%" alt="Profile footer"/>
+
+</div>
