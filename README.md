@@ -4,8 +4,13 @@
 
 ### Building Scalable Backend Systems & AI-Powered Applications
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+%7C+Microservices;REST+APIs+%7C+SQL+%7C+System+Design;Exploring+AI%2C+LLMs+%26+RAG;Turning+Ideas+Into+Working+Software" alt="Animated developer introduction"/>
+<p align="center">
+  <strong>Java • Spring Boot • Microservices • REST APIs • Node JS • AI Integration</strong>
+</p>
 
+<p align="center">
+  <em>Designing reliable backend services and exploring intelligent, AI-powered solutions.</em>
+</p>
 <p>
 <a href="https://linkedin.com/in/ankit-2210"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:ankit.agarwal.code@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
