@@ -40,7 +40,7 @@ I'm a **Software Engineer focused on Java backend development**, with experience
 - 🏗️ Exploring microservices architecture and distributed systems.
 - 🔌 Developing REST APIs, authentication flows, and database-driven applications.
 - 🤖 Exploring AI integration, document intelligence, and LLM-powered applications.
-- 🧪 Experienced in enterprise LIMS workflows and test automation.
+- 🧪 Experienced in enterprise LIMS customization and configuration workflows and test automation.
 - 🧠 Practicing data structures, algorithms, and competitive programming.
 
 **Current focus:** Backend Engineering · Microservices · System Design · AI Integration
@@ -107,7 +107,7 @@ I'm a **Software Engineer focused on Java backend development**, with experience
 
 **Additional technologies**
 
-`Spring Security` · `Spring AI` · `REST APIs` · `Apache Kafka` · `Playwright` · `JasperReports` · `SQL` · `API Testing` · `OOP` · `System Design`
+`Spring Security` · `Spring A` · `Spring AI` · `REST APIs` · `Apache Kafka` · `Playwright` · `JasperReports` · `SQL` · `API Testing` · `OOP` · `System Design`
 
 ---
 
